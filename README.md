@@ -4,3 +4,5 @@ Repositório onde se destinará os trabalhos e atividade da disciplina de TÓPIC
 Atividades:
 
 Certificados:
+
+Verify this certificate at https://app.dataquest.io/verify_cert/HHEV28TKTNG8POHWO7A3/ 
